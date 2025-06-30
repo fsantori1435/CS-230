@@ -1,6 +1,6 @@
 # CS-230
 
-The client for this project was The Gaming Room, a company focused on interactive entertainment and game development. They requested the design of a cross-platform game application called Draw It or Lose It. The core requirements were to develop a scalable, web-based game that could run on multiple platforms—including web browsers, mobile devices, and potentially consoles—while managing high-resolution image assets efficiently and securely. The application needed to support user accounts, team and player structures, and include monetization options such as in-game purchases.
+The client for this project was The Gaming Room, a company focused on interactive entertainment and game development. They requested the design of a cross-platform game application called Draw It or Lose It. The core requirements were to develop a scalable, web-based game that could run on multiple platforms, including web browsers, mobile devices, and potentially consoles, while managing high-resolution image assets efficiently and securely. The application needed to support user accounts, team and player structures, and include monetization options such as in-game purchases.
 
 
 
@@ -8,7 +8,7 @@ One thing I did particularly well in developing this documentation was translati
 
 
 
-Working through the design document was especially helpful in planning before writing code. It encouraged me to think through the system architecture, data flows, and potential issues—such as load balancing, security risks, and user experience—before implementation. This planning process provided a clear blueprint that would reduce trial-and-error during development and improve overall code quality.
+Working through the design document was especially helpful in planning before writing code. It encouraged me to think through the system architecture, data flows, and potential issues, such as load balancing, security risks, and user experience, before implementation. This planning process provided a clear blueprint that would reduce trial-and-error during development and improve overall code quality.
 
 
 
